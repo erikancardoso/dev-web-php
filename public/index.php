@@ -1,4 +1,14 @@
-<h1> Olá php !</h1>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="shortcut icon" href="images/favicon.ico">
+        <title></title> 
+    </head>
 
-<?php
-require 'teste.php';
+    <body>
+        <?php
+        require 'teste.php';
+        ?>
+    </body>
+</html>
